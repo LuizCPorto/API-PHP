@@ -1,0 +1,10 @@
+{
+    "name": "carli/front",
+    "autoload": {
+        "psr-4": {
+            "controller\\": "src/controller",
+            "connection\\": "src/connection"
+        }
+    },
+    "require": {}
+}
