@@ -1,0 +1,11 @@
+{
+    "name": "carli/api",
+    "autoload": {
+        "psr-4": {
+            "connection\\": "src/connection",
+            "controller\\": "src/controller",
+            "model\\": "src/model"
+        }
+    },
+    "require": {}
+}
